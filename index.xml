@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>杰拉德</title>
+    <link>https://jielade.me/</link>
+    <description>Recent content on 杰拉德</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://jielade.me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>杰拉德的2021年总结</title>
+      <link>https://jielade.me/post/my-2021/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://jielade.me/post/my-2021/</guid>
+      <description>杰拉德2021总结 2020年加入优联荟是一个无比正确的决定。 在这里，在跨境电商领域内我就是一张白纸。我像一块海绵掉进了水里一样，竭进可能的学</description>
+    </item>
+    
+    <item>
+      <title>与其临渊羡鱼，不如退而结网</title>
+      <link>https://jielade.me/post/just-do-it/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://jielade.me/post/just-do-it/</guid>
+      <description>写在最前的话 参加过一些社群，里面的小伙伴特别热衷参加各种训练营，生怕没有被选上从而感觉什么也学不到。其实无论是社群内部还是公开的资料已经足够</description>
+    </item>
+    
+  </channel>
+</rss>
