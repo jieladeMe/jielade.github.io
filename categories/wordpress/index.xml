@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WordPress on 杰拉德</title>
+    <link>https://jielade.me/categories/wordpress/</link>
+    <description>Recent content in WordPress on 杰拉德</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://jielade.me/categories/wordpress/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>杰拉德如何去杭州上大学</title>
+      <link>https://jielade.me/post/how-dns-work/</link>
+      <pubDate>Sun, 23 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://jielade.me/post/how-dns-work/</guid>
+      <description>杰拉德如何去杭州读大学 很多同学想搞独立站，整个体系其实比较庞杂，尤其涉及建站的技术部分比如域名注册、DNS解析，建站、内容建设等等。其中很多</description>
+    </item>
+    
+  </channel>
+</rss>

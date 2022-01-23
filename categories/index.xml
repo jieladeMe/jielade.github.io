@@ -6,7 +6,16 @@
     <description>Recent content in Categories on 杰拉德</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://jielade.me/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 23 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://jielade.me/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WordPress</title>
+      <link>https://jielade.me/categories/wordpress/</link>
+      <pubDate>Sun, 23 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://jielade.me/categories/wordpress/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>复盘</title>
       <link>https://jielade.me/categories/%E5%A4%8D%E7%9B%98/</link>
